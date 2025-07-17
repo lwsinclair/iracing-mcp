@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/musantro-iracing-mcp-badge.png)](https://mseep.ai/app/musantro-iracing-mcp)
+
 # iRacing MCP
 
 iRacing MCP is a Python-based project that integrates iRacing with the Model Context Protocol (MCP). It provides tools and resources to interact with iRacing data and build custom applications.
